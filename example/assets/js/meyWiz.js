@@ -11,8 +11,8 @@ $.fn.meyWiz = function() {
 		maxSections: 0,
 		currentSection: 0,
 		lang: {
-			'next': 'Weiter',
-			'done': 'Abschließen'
+			'next': 'Go on',
+			'done': "We're done here!"
 		},
 		customFunctions: {}
 	});

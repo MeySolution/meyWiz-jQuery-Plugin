@@ -10,6 +10,7 @@ $(document).ready(function() {
 		storeSelfStrategy: function() {
 			var data = $('input[name="selfText[strategy]"]:checked').val();
 			if(typeof data === 'undefined') {
+				alert('Fill some data!');
 				return false;
 			}
 			setLs('selfCheck[strategy]', data);
