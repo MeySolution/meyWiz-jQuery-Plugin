@@ -15,6 +15,9 @@ $(document).ready(function() {
 			}
 			setLs('selfCheck[strategy]', data);
 			return true;
+		},
+		alertMe: function() {
+			alert("yeah works!");
 		}
 	});
 });
