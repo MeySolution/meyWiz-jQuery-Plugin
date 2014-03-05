@@ -30,7 +30,8 @@ The plugin offers the following hookpoints:
 
 ## Coming soon
 - ~~Grunt & UglifyJS integration~~ **done**
-- ~~load/unload hooks~~ *done* 
+- ~~load/unload hooks~~ **done**
+- ~~JS Unittests (using QUnit)~~ **done**
 - HTML5 History implemention
 - possibility of adding more then one function to a section
 - Localization
